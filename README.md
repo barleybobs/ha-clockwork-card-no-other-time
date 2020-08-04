@@ -28,7 +28,8 @@ resource:
 ```
 
 ## CONFIGURATION
-**Manual**
+**Manual Instalation**
+
 Then in your lovelace configuration edit accordingly.
 It requires you have an existing [date_time_iso](https://www.home-assistant.io/integrations/time_date/) sensor. (Actually it doesnt read note below)
 
