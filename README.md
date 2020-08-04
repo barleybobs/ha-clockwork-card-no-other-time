@@ -1,5 +1,7 @@
 # Clockwork Card
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+
 **Current Version:** 0.1.2
 
 This is a simple little custom lovelace element that shows a clock and some extra timezones for Home Assistant.
