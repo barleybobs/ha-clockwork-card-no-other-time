@@ -17,7 +17,7 @@ If by some miracle it works it should look like this:![Sample Image](sample.jpg)
 *This was never intended for external use, but was asked a couple times to release it so I did.
 Use at own risk, absolutely minimal testing has been completed. Milage may very.*
 
-## INSTALLATION
+## MANUAL INSTALLATION
 
 To install add it to your custom lovelace folder and then reference it accordingly
 
@@ -28,7 +28,6 @@ resource:
 ```
 
 ## CONFIGURATION
-**Manual Instalation**
 
 Then in your lovelace configuration edit accordingly.
 It requires you have an existing [date_time_iso](https://www.home-assistant.io/integrations/time_date/) sensor. (Actually it doesnt read note below)
