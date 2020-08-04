@@ -21,7 +21,7 @@ Use at own risk, absolutely minimal testing has been completed. Milage may very.
 
 To install via [HACS](https://hacs.xyz/) select the "Custom repositories" button add in the link in this format ***user* + *repository name***  (You can find this information at the top of the repository.  For category select  **Lovelace** then click "ADD".
 
-After this navigate to "Frontend" click the plus symbol and enter "Home Assistant Clockwork Card" into the search bar. Then click :![Description](searchbar.png)
+After this navigate to "Frontend" click the plus symbol and enter "Home Assistant Clockwork Card" into the search bar. Then click on the first result. ![Description](searchbar.png) and select "Install this repository in HACS" and you are done!
 
 ## MANUAL INSTALLATION
 
