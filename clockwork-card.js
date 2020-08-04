@@ -15,7 +15,6 @@ class ClockWorkCard extends HTMLElement {
         const config = this.config;
         const locale = config.locale;
         const _locale = locale ? locale : undefined;
-        var _other_timezones = config.other_time;
         
         const entityId = config.entity;
 
