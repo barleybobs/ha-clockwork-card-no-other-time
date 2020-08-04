@@ -55,6 +55,6 @@ Will try to fix this.
 
 ## TODO LIST
     [ ] Fix iPhone issue.
-    [ ] Integrate with HACS.
+    [✔️] Integrate with HACS.
     [ ] Clean up README and more detailed install 
     [ ] Have ability to choose whether to show local device time or HomeAssistant time.
