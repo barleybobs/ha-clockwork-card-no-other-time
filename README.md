@@ -17,6 +17,10 @@ If by some miracle it works it should look like this:![Sample Image](sample.jpg)
 *This was never intended for external use, but was asked a couple times to release it so I did.
 Use at own risk, absolutely minimal testing has been completed. Milage may very.*
 
+## INSTALL WITH HACS
+
+To install via [HACS](https://hacs.xyz/) select the "Custom repositories" button add in the link in this format ***user* + *repository name***.  For category select  **Lovelace**
+
 ## MANUAL INSTALLATION
 
 To install add it to your custom lovelace folder and then reference it accordingly
