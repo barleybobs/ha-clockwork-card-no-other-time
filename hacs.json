@@ -1,5 +1,3 @@
 {
-  "name": "Home Assistant Clockwork Card",
-  "content_in_root": true,
-  "filename": "clockwork-card.js",
+  "name": "Home Assistant Clockwork Card"
 }
