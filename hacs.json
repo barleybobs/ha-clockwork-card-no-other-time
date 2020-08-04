@@ -1,4 +1,5 @@
 {
   "name": "Home Assistant Clockwork Card",
-  "filename": "clockwork-card.js"
+  "filename": "clockwork-card.js",
+  "render_readme": true
 }
