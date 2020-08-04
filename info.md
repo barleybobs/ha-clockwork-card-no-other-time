@@ -14,6 +14,8 @@ If by some miracle it works it should look like this:![Sample Image](sample.jpg)
 
 ## DISCLAIMER
 
+*This was forked from robmarkoski/ha-clockwork-card and has been  modifyed to work with HACS (Home Assistant Community Store)*
+
 *This was never intended for external use, but was asked a couple times to release it so I did.
 Use at own risk, absolutely minimal testing has been completed. Milage may very.*
 
